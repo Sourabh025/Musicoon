@@ -1,2 +1,2 @@
-# SoundCloudAPI
-Soundcloud WebAPI Sound player to create playlsits online
+# MUSICOON
+Online Music player to listen and create playlsits online.
